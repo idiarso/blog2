@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title><?= strtoupper($this->db->get("profile")->row()->nama); ?> | OFFICIAL</title>
+    <title><?= strtoupper($this->db->get("profile")->row()->nama); ?> | ORGANISASI</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
