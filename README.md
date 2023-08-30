@@ -1,5 +1,6 @@
 # blog2
-web blog menggunakan framwork codigneiter
+======================
+BLOG INI MENGGUNAKAN CI 3
 
 ======================
 Welcome to CodeIgniter
