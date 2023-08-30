@@ -59,7 +59,7 @@
                     <li><a class="nav-link scrollto" href="<?= base_url(); ?>">BERANDA</a></li>
                     <li class="dropdown"><a href="#"><span>PROFIL</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="<?= base_url("sejarah") ?>">SEJARAH</a></li>
+                            <li><a href="<?= base_url("sejarah") ?>">SEJARAH TENTANG</a></li>
                             <li><a href="<?= base_url("visi") ?>">VISI DAN MISI</a></li>
                             <li><a href="<?= base_url("lambang") ?>">LAMBANG DAERAH</a></li>
                             <li><a href="<?= base_url("struktur") ?>">STRUKTUR ORGANISASI</a></li>
